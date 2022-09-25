@@ -24,7 +24,8 @@ github_username:  tommyhosman
 
 # Build settings
 markdown: kramdown
-theme: academic
+# theme: academic
+remote_theme: gaalcaras/academic
 
 
 # plugins:
