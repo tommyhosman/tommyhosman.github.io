@@ -14,13 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tommy Hosman
-email: tommy_hosman@brown.edu
+# email: tommy_hosman@brown.edu
 # description: >- # this means to ignore newlines until "baseurl:"
 #   ""
 
 domain: tommyhosman.github.io
 url: "https://tommyhosman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  tommyhosman
+# github_username:  tommyhosman
+curriculum:
+  name: "Curriculum Vitae"
+  url: /assets/hosman_cv.pdf
+author_display: false
+
 
 # Build settings
 markdown: kramdown

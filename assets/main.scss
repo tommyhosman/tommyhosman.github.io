@@ -8,7 +8,7 @@
 // Our variables
 // $base-font-family: "Open Sans", sans-serif;
 $base-font-family: "PT Serif", serif;
-$base-font-size:   20px;
+$base-font-size:   12px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
@@ -19,19 +19,19 @@ $alt-font-weight: bold;
 $spacing-unit:     50px;
 
 $text-color:       rgb(0, 0, 0);
-$background-color: #f3f3f3;
-$brand-color:      #4297dd;
+$background-color: #a1a1a1;
+$brand-color:      #1575c4;
 
-$grey-color:       #3F3F3F;
+$grey-color:       #414141;
 $grey-color-light: lighten($grey-color, 50%);
 $grey-color-lighter: lighten($grey-color, 70%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    700px;
+$content-width:    1200px;
 
 $on-palm:          500px;
-$on-laptop:        700px;
+$on-laptop:        1200px;
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
